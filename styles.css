@@ -137,3 +137,47 @@ a {
     color: #1f2937;
     
 }
+
+.s4-bottom {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 18px ;
+    margin-left: auto;
+    margin-right: 36px;
+}
+
+.fifth-section {
+    background-color: white;
+    padding: 100px;
+}
+
+.s5-box {
+    display: flex ;
+    background-color: #3882F6;
+    padding: 100px;
+    gap: 50px;
+    border-radius: 5px
+    ;
+    
+}
+
+.s5-left-text {
+    color: white;
+    font-size: 18px;
+}
+
+.s5-button {
+    border-color: white;
+}
+
+.footer {
+    display: flex;
+ background-color: #1f2937;
+ justify-content: center;
+ align-items: center;
+ height: 50px;
+}
+
+.footer-text {
+    color: white;
+}
